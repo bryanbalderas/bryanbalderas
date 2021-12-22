@@ -15,8 +15,8 @@
 
 - Hobbies = ['Play videogames','Read manga','Watch movies and series'] 🎬
 
-- Experience = {'.NET developer':'2 Years',
-                  'Web, deksktop and mobile dev':'Currently'} 👨‍💻
+- Experience = {'.NET developer':'Currently',
+                  'Web, deksktop and mobile dev':'3 months'} 👨‍💻
 
 - Favorite_Tech = ['Web development','Mobile applications','Augmented and Virtual Reality'] 👨‍💻
 
