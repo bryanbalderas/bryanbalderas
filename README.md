@@ -15,8 +15,8 @@
 
 - Hobbies = ['Play videogames','Read manga','Watch movies and series'] 🎬
 
-- Experience = {'.NET developer':'Currently',
-                  'Web, deksktop and mobile dev':'3 months'} 👨‍💻
+- Experience = {'.NET developer':'Currently (2 years)',
+                  'Full Stack Developer':'3 months'} 👨‍💻
 
 - Favorite_Tech = ['Web development','Mobile applications','Augmented and Virtual Reality'] 👨‍💻
 
@@ -25,3 +25,6 @@ Contact:
 bryan_a21@live.com.mx
 
 [LinkedIn](https://www.linkedin.com/in/bryan-balderas-07196a172/)
+
+
+![GitHub Views](https://komarev.com/ghpvc/?username=bryanbalderas)
