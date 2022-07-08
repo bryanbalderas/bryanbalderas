@@ -26,7 +26,8 @@ bryan_a21@live.com.mx
 
 [LinkedIn](https://www.linkedin.com/in/bryan-balderas-07196a172/)
 
+[My Website!](https://www.bryanbalderas.com/)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=bryanbalderas)
 
-[My Website!](https://www.bryanbalderas.com/)
+
