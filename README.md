@@ -1,5 +1,5 @@
 
-- Age = 23
+- Age = 24
 
 - Career = Computer Systems Engineer 👨‍💻
 
@@ -15,7 +15,7 @@
 
 - Hobbies = ['Play videogames','Read manga','Watch movies and series'] 🎬
 
-- Experience = {'.NET developer':'Currently (4 years)'} 👨‍💻
+- Experience = {'.NET developer':'Currently (+5 years)'} 👨‍💻
 
 - Favorite_Tech = ['Web development','Mobile applications','Augmented and Virtual Reality'] 👨‍💻
 
